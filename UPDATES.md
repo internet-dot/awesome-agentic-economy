@@ -7,21 +7,134 @@ Developer-focused weekly updates tracking the explosive growth of autonomous AI 
 > - **📰 Industry Analysis**: [xpay Substack - Agentic Economy Weekly](https://xpaysh.substack.com/s/agentic-economy-weekly-updates)
 > - **🎯 Interactive Timeline**: [xpay.sh Timeline](https://www.xpay.sh/agentic-economy-timeline/)
 
-## 📊 Current Status - December 8, 2025
+## 📊 Current Status - January 2, 2026
 
 | Protocol | Status | Latest Version | Repository | Weekly Transactions | YoY Growth |
 |----------|---------|----------------|------------|-------------------|------------|
-| **[x402](https://x402.gitbook.io/)** | 🟢 Production | v1.2.0 | [coinbase/x402](https://github.com/coinbase/x402) | 500K+ | +492% |
+| **[x402](https://x402.gitbook.io/)** | 🟢 Production | v1.2.1 | [coinbase/x402](https://github.com/coinbase/x402) | 600K+ | +520% |
 | **[Google AP2](https://a2a-protocol.org/)** | 🟢 Production | v2.0.1 | Private | Enterprise scale | +89% |
 | **[MCP](https://modelcontextprotocol.io/)** | 🟢 Production | v0.4.0 | [modelcontextprotocol](https://github.com/modelcontextprotocol) | Growing | +156% |
 | **IBM ACP** | 🟡 Beta | v0.8.0 | Enterprise | Enterprise trials | New |
 | **[XMTP](https://xmtp.org/)** | 🟢 Production | v3.0.0 | [xmtp/xmtp-js](https://github.com/xmtp/xmtp-js) | Web3 messaging | +78% |
+| **[Visa TAP](https://investors.fiserv.com/newsroom/detail/2881)** | 🟢 Production | v1.0.0 | Private | Fiserv network | New |
+| **[Mastercard Agent Pay](https://investors.fiserv.com/newsroom/detail/2882)** | 🟢 Production | v1.0.0 | Private | Fiserv network | New |
 
-**💰 Total Weekly Volume**: $180M+ across all protocols
+**💰 Total Weekly Volume**: $220M+ across all protocols
 
 ---
 
 # 📅 Weekly Updates
+
+## 📅 Week of December 22, 2025
+**Theme**: Infrastructure Deployment: The Fiserv-Visa-Mastercard Nexus
+
+[📄 **Full Update** →](./updates/2025-12-22.md)
+[📰 **Analysis** →](https://xpaysh.substack.com/p/fiserv-visa-mastercard-agentic-commerce-dec-22-2025)
+
+### Major Developments
+
+**Agentic Commerce Infrastructure Goes Live**:
+- **Fiserv + Visa**: Trusted Agent Protocol deployment across Fiserv merchant network (Dec 22)
+- **Fiserv + Mastercard**: Agent Pay Acceptance Framework adoption at scale (Dec 22)
+- **Mastercard 2026 Trends**: "Securing Agentic Commerce" named #1 payment trend (Dec 30)
+
+**Open Infrastructure**:
+- **x402 "Rosetta Stone"**: Agentic Economy Boilerplate released for instant deployment
+- **Multi-Chain Support**: Base, Ethereum, Solana with USDC settlement standardized
+
+**Regulatory Continuity**:
+- **FDIC GENIUS Act**: Comment period active through February 17, 2026
+- **Chainalysis Round-Up**: "Agentic Payments" identified as key 2026 regulatory theme
+
+### Developer Impact
+
+- **Dual Protocol Support**: Merchants can now accept both Visa TAP and Mastercard Agent Pay
+- **Multi-Rail Architecture**: Card networks for physical goods, x402 for machine-to-machine
+- **Intent Capture**: Both protocols implement dispute resolution through intent verification
+- **AMA Protocols**: Anti-Malicious Agent screening emerging as security layer
+
+### The "Double-Trigger" Event
+
+| Regulatory (Dec 16) | Infrastructure (Dec 22) |
+|---------------------|------------------------|
+| FDIC GENIUS Act NPRM | Fiserv-Visa Partnership |
+| PPSI subsidiary structure | Trusted Agent Protocol |
+| Bank stablecoin issuance path | Fiserv-Mastercard Partnership |
+| Comment period opens | Agent Pay Framework |
+
+---
+
+## 📅 Week of December 15, 2025
+**Theme**: Regulatory Progress: GENIUS Act Implementation & Global Stablecoin Frameworks
+
+[📄 **Full Update** →](./updates/2025-12-15.md)
+[📰 **Analysis** →](https://xpaysh.substack.com/p/regulatory-wins-genius-act-dec-15-2025)
+
+### Major Developments
+
+**US Regulatory Operationalization**:
+- **FDIC GENIUS Act NPRM**: Application procedures approved for bank stablecoin issuance (Dec 16)
+- **PPSI Subsidiary Structure**: Banks must create separate entities to issue payment stablecoins
+- **Comment Period**: Open through February 17, 2026
+
+**Global Regulatory Round-Up**:
+- **Chainalysis**: 2025 described as "transformative year" for crypto regulation (Dec 23)
+- **SEC Project Crypto**: Overhaul initiative for securities laws
+- **Cross-Agency Collaboration**: Joint SEC/CFTC statements on spot crypto products
+
+**Framework Harmonization**:
+- **JAMS Analysis**: GENIUS Act aligning with EU MiCA for global standards (Dec 17)
+- **Brookings Issues**: Four key implementation challenges identified
+- **Hong Kong Context**: Stablecoin regime now in full supervision phase
+
+### Developer Impact
+
+- **GENIUS Act Readiness**: Prepare for Q1 2026 PPSI application window
+- **Dual-Framework Compliance**: Build for both GENIUS Act (US) and MiCA (EU)
+- **National Rail Creation**: Federal stablecoin license may preempt state MTLs
+- **Reserve Verification**: Implement backing quality checks per regulatory requirements
+
+### Regulatory Timeline
+
+- **February 17, 2026**: FDIC comment period closes
+- **Mid-2026**: Expected GENIUS Act final regulations
+- **January 2027**: GENIUS Act statutory effective date
+
+---
+
+## 📅 Week of December 8, 2025
+**Theme**: Institutional Analysis: Fed, Forbes & Major Reports on Agentic AI
+
+[📄 **Full Update** →](./updates/2025-12-08.md)
+[📰 **Analysis** →](https://xpaysh.substack.com/p/ai-agents-stablecoins-institutions-dec-8-2025)
+
+### Major Developments
+
+**Institutional Reports Converge**:
+- **Federal Reserve (Atlanta)**: Analysis of major firms betting on agentic AI in payments (Dec 8)
+- **Mastercard 2026 Trends**: "Securing Agentic Commerce" as #1 trend, Agent Pay expansion (Dec 9)
+- **TRM Labs**: Global crypto policy review shows 70%+ jurisdictions advancing stablecoin frameworks (Dec 3)
+
+**Cross-Border & Stablecoin Analysis**:
+- **Forbes**: 40% rise in agent-to-agent (A2A) transaction volumes reported (Dec 12)
+- **S&P Global**: $155B+ in T-bills held by stablecoin issuers (Dec 3)
+- **JPMorgan**: Cross-border trends highlighting AI optimization (Dec 11)
+- **CoinDesk**: Stablecoin adoption "exploding" beyond crypto into payments, payroll (Dec 5)
+
+### Developer Impact
+
+- **Security-First Design**: Implement authentication per Fed-described account takeover concerns
+- **Compliance Integration**: Use TRM Labs or similar screening for regulatory alignment
+- **Multi-Rail Architecture**: Support traditional (Mastercard, JPMorgan) and crypto (x402) rails
+- **AI Optimization**: Implement intelligent routing per Fed and JPMorgan patterns
+
+### Protocol Updates
+
+- **Mastercard Agent Pay**: U.S. Bank and Citibank live, global rollout Q1 2026
+- **x402**: 500K+ weekly transactions, +492% YoY growth continues
+- **AP2 (Google)**: 60+ partners including Mastercard building compatibility
+
+---
 
 ## 📅 Week of December 1, 2025
 **Theme**: Institutional Momentum for Agentic Payments & Stablecoin Infrastructure
