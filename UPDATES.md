@@ -7,60 +7,94 @@ Developer-focused weekly updates tracking the explosive growth of autonomous AI 
 > - **📰 Industry Analysis**: [xpay Substack - Agentic Economy Weekly](https://xpaysh.substack.com/s/agentic-economy-weekly-updates)
 > - **🎯 Interactive Timeline**: [xpay.sh Timeline](https://www.xpay.sh/agentic-economy-timeline/)
 
-## 📊 Current Status - January 2, 2026
+## 📊 Current Status - January 4, 2026
 
 | Protocol | Status | Latest Version | Repository | Weekly Transactions | YoY Growth |
 |----------|---------|----------------|------------|-------------------|------------|
-| **[x402](https://x402.gitbook.io/)** | 🟢 Production | v1.2.1 | [coinbase/x402](https://github.com/coinbase/x402) | 600K+ | +520% |
+| **[x402](https://x402.gitbook.io/)** | 🟢 Production | v2.0.0 | [coinbase/x402](https://github.com/coinbase/x402) | 700K+ | +540% |
+| **[Stripe ACP](https://stripe.com/newsroom/news/agentic-commerce-suite)** | 🟢 Production | v1.0.0 | Private | ChatGPT/Copilot | New |
 | **[Google AP2](https://a2a-protocol.org/)** | 🟢 Production | v2.0.1 | Private | Enterprise scale | +89% |
 | **[MCP](https://modelcontextprotocol.io/)** | 🟢 Production | v0.4.0 | [modelcontextprotocol](https://github.com/modelcontextprotocol) | Growing | +156% |
 | **IBM ACP** | 🟡 Beta | v0.8.0 | Enterprise | Enterprise trials | New |
 | **[XMTP](https://xmtp.org/)** | 🟢 Production | v3.0.0 | [xmtp/xmtp-js](https://github.com/xmtp/xmtp-js) | Web3 messaging | +78% |
-| **[Visa TAP](https://investors.fiserv.com/newsroom/detail/2881)** | 🟢 Production | v1.0.0 | Private | Fiserv network | New |
+| **[Visa TAP](https://developer.visa.com/capabilities/trusted-agent-protocol/overview)** | 🟢 Production | v1.0.0 | Private | Production pilots | New |
 | **[Mastercard Agent Pay](https://investors.fiserv.com/newsroom/detail/2882)** | 🟢 Production | v1.0.0 | Private | Fiserv network | New |
 
-**💰 Total Weekly Volume**: $220M+ across all protocols
+**💰 Total Weekly Volume**: $250M+ across all protocols
 
 ---
 
 # 📅 Weekly Updates
 
+## 📅 Week of December 29, 2025
+**Theme**: Year-End Review: 2025 as the Year AI Agents Entered Payments
+
+[📄 **Full Update** →](./updates/2025-12-29.md)
+[📰 **Analysis** →](https://xpaysh.substack.com/p/year-end-agentic-economy-2025-review)
+
+### Major Developments
+
+**Year-End Industry Analysis**:
+- **CNBC Analysis (Dec 29)**: "More transformative than the rise of e-commerce" - all major payment giants now have agentic commerce strategies
+- **PYMNTS Review (Dec 30)**: "AI shifted from assisting to acting" - 85% of CFOs went from no agentic plans to early test runs in 6 months
+- **American Banker (Dec 30)**: Stablecoins positioned as key 2026 banking infrastructure for machine-to-machine payments
+
+**2026 Forecasts**:
+- **eMarketer**: AI platforms to capture $20.9B (1.5% of e-commerce), nearly 4x 2025
+- **Gartner**: Enterprise AI agent adoption jumping from <5% to 40% by end 2026
+- **Edgar Dunn**: $1.7T agentic commerce market by 2030
+
+**Platform Dominance**:
+- **Amazon Rufus**: 250M users, $10B annualized incremental sales, Auto-Buy and Buy-for-Me features live
+
+### Developer Impact
+
+- **Multi-Rail Architecture**: Build routing across Visa TAP, Mastercard Agent Pay, Stripe ACP, x402
+- **Guardrail Implementation**: Enterprise deployments require tight scope, authority limits, audit trails
+- **Micropayment Optimization**: Stablecoins essential for sub-$1 machine-to-machine transactions
+- **2026 Preparation**: 47% consumer adoption today, 70%+ expected by year-end
+
+---
+
 ## 📅 Week of December 22, 2025
-**Theme**: Infrastructure Deployment: The Fiserv-Visa-Mastercard Nexus
+**Theme**: Platform Wars: ChatGPT, Perplexity, Google, and Card Networks Go Live
 
 [📄 **Full Update** →](./updates/2025-12-22.md)
 [📰 **Analysis** →](https://xpaysh.substack.com/p/fiserv-visa-mastercard-agentic-commerce-dec-22-2025)
 
 ### Major Developments
 
-**Agentic Commerce Infrastructure Goes Live**:
-- **Fiserv + Visa**: Trusted Agent Protocol deployment across Fiserv merchant network (Dec 22)
-- **Fiserv + Mastercard**: Agent Pay Acceptance Framework adoption at scale (Dec 22)
-- **Mastercard 2026 Trends**: "Securing Agentic Commerce" named #1 payment trend (Dec 30)
+**Every Major Platform Now Has Agentic Checkout**:
+- **ChatGPT + Instacart**: First grocery partner with Instant Checkout via Stripe ACP (Dec 8)
+- **Perplexity + PayPal**: Instant Buy enables in-chat purchasing across 5,000+ merchants
+- **Google "Buy for Me"**: AI agent autonomously completes purchases via Google Pay
+- **Fiserv + Visa/Mastercard**: TAP and Agent Pay deployed across merchant network (Dec 22)
+
+**Platform Conflict Emerges**:
+- **Amazon vs. AI Agents**: Blocking external bots, suing Perplexity while promoting Rufus
+- **Open vs. Walled Garden**: Stripe ACP, PayPal, Google open; Amazon closed
 
 **Open Infrastructure**:
-- **x402 "Rosetta Stone"**: Agentic Economy Boilerplate released for instant deployment
-- **Multi-Chain Support**: Base, Ethereum, Solana with USDC settlement standardized
-
-**Regulatory Continuity**:
-- **FDIC GENIUS Act**: Comment period active through February 17, 2026
-- **Chainalysis Round-Up**: "Agentic Payments" identified as key 2026 regulatory theme
+- **x402 Boilerplate**: "Rosetta Stone" for agentic payments released
+- **Multi-Chain Support**: Base, Ethereum, Solana with USDC settlement
 
 ### Developer Impact
 
-- **Dual Protocol Support**: Merchants can now accept both Visa TAP and Mastercard Agent Pay
-- **Multi-Rail Architecture**: Card networks for physical goods, x402 for machine-to-machine
-- **Intent Capture**: Both protocols implement dispute resolution through intent verification
-- **AMA Protocols**: Anti-Malicious Agent screening emerging as security layer
+- **Multi-Protocol Required**: Build for Stripe ACP, Visa TAP, Mastercard Agent Pay, PayPal, Google Pay
+- **Platform Risk**: Agents built on scraped data face legal exposure (Amazon lawsuit)
+- **Payment Rail Selection**: Card networks for consumer goods, x402 for machine-to-machine
+- **Intent Capture**: All protocols require logging for dispute resolution
 
-### The "Double-Trigger" Event
+### Competitive Landscape
 
-| Regulatory (Dec 16) | Infrastructure (Dec 22) |
-|---------------------|------------------------|
-| FDIC GENIUS Act NPRM | Fiserv-Visa Partnership |
-| PPSI subsidiary structure | Trusted Agent Protocol |
-| Bank stablecoin issuance path | Fiserv-Mastercard Partnership |
-| Comment period opens | Agent Pay Framework |
+| Platform | Protocol | Payment Rail |
+|----------|----------|--------------|
+| ChatGPT | Stripe ACP | Stripe |
+| Perplexity | Instant Buy | PayPal |
+| Google | Buy for Me | Google Pay |
+| Visa | TAP | Card Networks |
+| Mastercard | Agent Pay | Card Networks |
+| x402 | HTTP 402 | USDC |
 
 ---
 
@@ -821,18 +855,19 @@ const response = await fetch('/api/credit-score', {
 
 ### 🚀 Latest Releases & Updates
 
-#### This Week (December 8, 2025)
+#### This Week (December 29, 2025 - January 4, 2026)
 ```diff
-+ IMF Stablecoin Report: Comprehensive analysis of cross-border settlement role
-+ Fed Agentic AI Analysis: Major firms' investments in autonomous payment systems
-+ TRM Labs Policy Review: 70%+ jurisdictions advancing stablecoin frameworks
-+ Mastercard 2026 Forecast: AI agents and stablecoins shaping payments
++ CNBC Analysis: "More transformative than e-commerce" - payment giants ready for AI agents
++ PYMNTS Year-End: 2025 as the year AI agents entered payments
++ American Banker: Stablecoins positioned as 2026 banking infrastructure
++ eMarketer Forecast: AI platforms to capture $20.9B in 2026 (4x 2025)
++ Amazon Rufus: 250M users, $10B sales impact, Auto-Buy live
 ```
 
-#### Coming This Week (December 15, 2025)
-- **EMVCo Updates**: Progress on agentic payment specification work
-- **Worldpay MCP Adoption**: Developer adoption metrics and case studies
-- **Regulatory Guidance**: Expected updates from multiple jurisdictions
+#### Coming Week (January 5, 2026)
+- **NRF 2026**: Microsoft Copilot Checkout, SAP retail AI, Workday agents
+- **UK ICO Report**: 68-page Agentic Commerce guidance
+- **Visa TAP Pilots**: Asia Pacific and Europe expansion
 
 ### 💻 Code Spotlight
 
@@ -979,4 +1014,4 @@ const result = await client.callTool('premium-analysis', {
 
 > 🎯 **Want to view an interactive timeline?** Visit [xpay.sh/agentic-economy-timeline](https://www.xpay.sh/agentic-economy-timeline/)
 
-*📅 Updated: December 8, 2025 | 🔄 Next Update: December 15, 2025*
+*📅 Updated: January 4, 2026 | 🔄 Next Update: January 12, 2026*
