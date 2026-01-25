@@ -4,8 +4,8 @@ Developer-focused weekly updates tracking the explosive growth of autonomous AI 
 
 > 🌐 **Cross-Platform Coverage**  
 > - **📊 Developer Updates**: [GitHub Weekly Updates](https://github.com/xpaysh/awesome-agentic-economy/blob/main/UPDATES.md) (This page)
-> - **📰 Industry Analysis**: [xpay Substack - Agentic Economy Weekly](https://agenticeconomy.substack.com/s/agentic-economy-weekly-updates)
-> - **🎯 Interactive Timeline**: [xpay.sh Timeline](https://www.xpay.sh/agentic-economy-timeline/)
+> - **📰 Industry Analysis**: [Agentic Economy Substack](https://agenticeconomy.substack.com/s/agentic-economy-weekly-updates)
+> - **🎯 Interactive Timeline**: [Agentic Economy Timeline](https://www.xpay.sh/resources/agentic-economy-timeline/)
 
 ## 📊 Current Status - January 19, 2026
 
@@ -192,7 +192,7 @@ Developer-focused weekly updates tracking the explosive growth of autonomous AI 
 **Theme**: Regulatory Progress: GENIUS Act Implementation & Global Stablecoin Frameworks
 
 [📄 **Full Update** →](./updates/2025-12-15.md)
-[📰 **Analysis** →](https://agenticeconomy.substack.com/p/regulatory-wins-genius-act-dec-15-2025)
+[📰 **Analysis** →](https://agenticeconomy.substack.com/p/when-regulation-started-preparing-for-agents)
 
 ### Major Developments
 
@@ -230,7 +230,7 @@ Developer-focused weekly updates tracking the explosive growth of autonomous AI 
 **Theme**: Institutional Analysis: Fed, Forbes & Major Reports on Agentic AI
 
 [📄 **Full Update** →](./updates/2025-12-08.md)
-[📰 **Analysis** →](https://agenticeconomy.substack.com/p/ai-agents-stablecoins-institutions-dec-8-2025)
+[📰 **Analysis** →](https://agenticeconomy.substack.com/p/institutions-designing-payments-for-ai-agents)
 
 ### Major Developments
 
@@ -264,7 +264,7 @@ Developer-focused weekly updates tracking the explosive growth of autonomous AI 
 **Theme**: Institutional Momentum for Agentic Payments & Stablecoin Infrastructure
 
 [📄 **Full Update** →](./updates/2025-12-01.md)
-[📰 **Analysis** →](https://agenticeconomy.substack.com/p/institutional-momentum-agentic-payments-dec-2025)
+[📰 **Analysis** →](https://agenticeconomy.substack.com/p/when-money-became-machine-native)
 
 ### Major Developments
 
@@ -298,7 +298,7 @@ Developer-focused weekly updates tracking the explosive growth of autonomous AI 
 **Theme**: Worldpay Opens Agentic Commerce Infrastructure & Standards Formalization
 
 [📄 **Full Update** →](./updates/2025-11-24.md)
-[📰 **Analysis** →](https://agenticeconomy.substack.com/p/worldpay-mcp-agentic-infrastructure-nov-2025)
+[📰 **Analysis** →](https://agenticeconomy.substack.com/p/agentic-economy-open-standards-converge-mcp)
 
 ### Major Developments
 
@@ -1103,6 +1103,6 @@ const result = await client.callTool('premium-analysis', {
 
 **📈 The agentic economy transformed from concept to $280M+ weekly volume in just 9 months. This changelog documents every major milestone in the fastest-growing technology sector.**
 
-> 🎯 **Want to view an interactive timeline?** Visit [xpay.sh/agentic-economy-timeline](https://www.xpay.sh/agentic-economy-timeline/)
+> 🎯 **Want to view an interactive timeline?** Visit [xpay.sh/agentic-economy-timeline](https://www.xpay.sh/resources/agentic-economy-timeline/)
 
 *📅 Updated: January 19, 2026 | 🔄 Next Update: January 26, 2026*
