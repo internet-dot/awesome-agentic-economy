@@ -4,7 +4,7 @@ Developer-focused weekly updates tracking the explosive growth of autonomous AI 
 
 > 🌐 **Cross-Platform Coverage**  
 > - **📊 Developer Updates**: [GitHub Weekly Updates](https://github.com/xpaysh/awesome-agentic-economy/blob/main/UPDATES.md) (This page)
-> - **📰 Industry Analysis**: [xpay Substack - Agentic Economy Weekly](https://xpaysh.substack.com/s/agentic-economy-weekly-updates)
+> - **📰 Industry Analysis**: [xpay Substack - Agentic Economy Weekly](https://agenticeconomy.substack.com/s/agentic-economy-weekly-updates)
 > - **🎯 Interactive Timeline**: [xpay.sh Timeline](https://www.xpay.sh/agentic-economy-timeline/)
 
 ## 📊 Current Status - February 9, 2026
@@ -152,7 +152,7 @@ Developer-focused weekly updates tracking the explosive growth of autonomous AI 
 **Theme**: Year-End Review: 2025 as the Year AI Agents Entered Payments
 
 [📄 **Full Update** →](./updates/2025-12-29.md)
-[📰 **Analysis** →](https://xpaysh.substack.com/p/year-end-agentic-economy-2025-review)
+[📰 **Analysis** →](https://agenticeconomy.substack.com/p/year-end-agentic-economy-2025-review)
 
 ### Major Developments
 
@@ -182,7 +182,7 @@ Developer-focused weekly updates tracking the explosive growth of autonomous AI 
 **Theme**: Platform Wars: ChatGPT, Perplexity, Google, and Card Networks Go Live
 
 [📄 **Full Update** →](./updates/2025-12-22.md)
-[📰 **Analysis** →](https://xpaysh.substack.com/p/fiserv-visa-mastercard-agentic-commerce-dec-22-2025)
+[📰 **Analysis** →](https://agenticeconomy.substack.com/p/fiserv-visa-mastercard-agentic-commerce-dec-22-2025)
 
 ### Major Developments
 
@@ -224,7 +224,7 @@ Developer-focused weekly updates tracking the explosive growth of autonomous AI 
 **Theme**: Regulatory Progress: GENIUS Act Implementation & Global Stablecoin Frameworks
 
 [📄 **Full Update** →](./updates/2025-12-15.md)
-[📰 **Analysis** →](https://xpaysh.substack.com/p/regulatory-wins-genius-act-dec-15-2025)
+[📰 **Analysis** →](https://agenticeconomy.substack.com/p/regulatory-wins-genius-act-dec-15-2025)
 
 ### Major Developments
 
@@ -262,7 +262,7 @@ Developer-focused weekly updates tracking the explosive growth of autonomous AI 
 **Theme**: Institutional Analysis: Fed, Forbes & Major Reports on Agentic AI
 
 [📄 **Full Update** →](./updates/2025-12-08.md)
-[📰 **Analysis** →](https://xpaysh.substack.com/p/ai-agents-stablecoins-institutions-dec-8-2025)
+[📰 **Analysis** →](https://agenticeconomy.substack.com/p/ai-agents-stablecoins-institutions-dec-8-2025)
 
 ### Major Developments
 
@@ -296,7 +296,7 @@ Developer-focused weekly updates tracking the explosive growth of autonomous AI 
 **Theme**: Institutional Momentum for Agentic Payments & Stablecoin Infrastructure
 
 [📄 **Full Update** →](./updates/2025-12-01.md)
-[📰 **Analysis** →](https://xpaysh.substack.com/p/institutional-momentum-agentic-payments-dec-2025)
+[📰 **Analysis** →](https://agenticeconomy.substack.com/p/institutional-momentum-agentic-payments-dec-2025)
 
 ### Major Developments
 
@@ -330,7 +330,7 @@ Developer-focused weekly updates tracking the explosive growth of autonomous AI 
 **Theme**: Worldpay Opens Agentic Commerce Infrastructure & Standards Formalization
 
 [📄 **Full Update** →](./updates/2025-11-24.md)
-[📰 **Analysis** →](https://xpaysh.substack.com/p/worldpay-mcp-agentic-infrastructure-nov-2025)
+[📰 **Analysis** →](https://agenticeconomy.substack.com/p/worldpay-mcp-agentic-infrastructure-nov-2025)
 
 ### Major Developments
 
@@ -372,7 +372,7 @@ Developer-focused weekly updates tracking the explosive growth of autonomous AI 
 **Theme**: Institutionalization of Agentic Payments: EMVCo, Mastercard & Enterprise Security
 
 [📄 **Full Update** →](./updates/2025-11-17.md)
-[📰 **Analysis** →](https://xpaysh.substack.com/p/institutionalization-agentic-payments-emvco-mastercard-x402)
+[📰 **Analysis** →](https://agenticeconomy.substack.com/p/institutionalization-agentic-payments-emvco-mastercard-x402)
 
 ### Major Developments
 
@@ -444,7 +444,7 @@ Developer-focused weekly updates tracking the explosive growth of autonomous AI 
 ---
 
 ## 📅 Week of November 3, 2025
-> 📰 **[Detailed Analysis](https://xpaysh.substack.com/s/agentic-economy-weekly-updates)** | IETF standardization and enterprise expansion
+> 📰 **[Detailed Analysis](https://agenticeconomy.substack.com/s/agentic-economy-weekly-updates)** | IETF standardization and enterprise expansion
 
 ### Added  
 - **IETF Internet-Draft**: DNS-based x402 discovery standard submitted for review
@@ -532,7 +532,7 @@ dig TXT _x402.api.example.com
 ---
 
 ## 📅 Week of September 22, 2025
-> 📰 **[Detailed Analysis](https://xpaysh.substack.com/s/agentic-economy-weekly-updates)** | Google AP2 v2.0 launch with x402
+> 📰 **[Detailed Analysis](https://agenticeconomy.substack.com/s/agentic-economy-weekly-updates)** | Google AP2 v2.0 launch with x402
 
 ### Added  
 - **Google AP2 v2.0**: Official production release with x402 extension
@@ -798,7 +798,7 @@ dig TXT _x402.api.example.com
 ---
 
 ## 📅 Week of May 12, 2025
-> 📰 **[Detailed Analysis](https://xpaysh.substack.com/s/agentic-economy-weekly-updates)** | Historic x402 protocol launch by Coinbase
+> 📰 **[Detailed Analysis](https://agenticeconomy.substack.com/s/agentic-economy-weekly-updates)** | Historic x402 protocol launch by Coinbase
 
 ### Added
 - **x402 protocol launch**: Coinbase officially launches HTTP 402 payment standard
