@@ -7,24 +7,268 @@ Developer-focused weekly updates tracking the explosive growth of autonomous AI 
 > - **📰 Industry Analysis**: [Agentic Economy Substack](https://agenticeconomy.substack.com/s/agentic-economy-weekly-updates)
 > - **🎯 Interactive Timeline**: [Agentic Economy Timeline](https://www.xpay.sh/resources/agentic-economy-timeline/)
 
-## 📊 Current Status - January 19, 2026
+## 📊 Current Status - March 17, 2026
 
 | Protocol | Status | Latest Version | Repository | Weekly Transactions | YoY Growth |
 |----------|---------|----------------|------------|-------------------|------------|
-| **[x402](https://x402.org/)** | 🟢 Production | v2.0.0 | [coinbase/x402](https://github.com/coinbase/x402) | 800K+ | +560% |
-| **[Stripe ACP](https://stripe.com/newsroom/news/agentic-commerce-suite)** | 🟢 Production | v1.0.0 | [agentic-commerce-protocol](https://github.com/agentic-commerce-protocol/agentic-commerce-protocol) | ChatGPT/Copilot | New |
-| **[Google UCP](https://developers.google.com/)** | 🟢 Production | v1.0.0 | Private | NRF 2026 Launch | New |
-| **[MCP](https://modelcontextprotocol.io/)** | 🟢 Production | v0.4.0 | [modelcontextprotocol](https://github.com/modelcontextprotocol) | Growing | +180% |
-| **[Warden](https://wardenprotocol.org/)** | 🟢 Production | v1.0.0 | [warden-protocol](https://github.com/warden-protocol) | Agent Keychains | New |
+| **[x402](https://x402.org/)** | 🟢 Production | v2.0.0 | [coinbase/x402](https://github.com/coinbase/x402) | 2.1M+ | +820% |
+| **[Stripe ACP](https://stripe.com/newsroom/news/agentic-commerce-suite)** | 🟢 Production | v1.2.0 | [agentic-commerce-protocol](https://github.com/agentic-commerce-protocol/agentic-commerce-protocol) | 340K+ merchants | +45% |
+| **[Google UCP](https://developers.google.com/)** | 🟢 Production | v1.0.0 | Private | Machine Feeds live | Established |
+| **[Google A2A](https://github.com/google/A2A)** | 🟢 Production | v0.3.0 | [google/A2A](https://github.com/google/A2A) | Linux Foundation | +200% |
+| **[Google AP2](https://developers.google.com/ap2)** | 🚧 Draft | v0.1.0 | Private | 60+ orgs backing | New |
+| **[MCP](https://modelcontextprotocol.io/)** | 🟢 Production | v0.5.0 | [modelcontextprotocol](https://github.com/modelcontextprotocol) | 97M npm downloads/mo | +116% |
+| **[Warden](https://wardenprotocol.org/)** | 🟢 Production | v1.0.0 | [warden-protocol](https://github.com/warden-protocol) | Agent Keychains | +45% |
 | **[XMTP](https://xmtp.org/)** | 🟢 Production | v3.0.0 | [xmtp/xmtp-js](https://github.com/xmtp/xmtp-js) | Web3 messaging | +78% |
-| **[Visa TAP](https://developer.visa.com/capabilities/trusted-agent-protocol/overview)** | 🟢 Production | v1.0.0 | Private | Production pilots | New |
-| **[Mastercard Agent Pay](https://investors.fiserv.com/newsroom/detail/2882)** | 🟢 Production | v1.0.0 | Private | Fiserv network | New |
+| **[Visa TAP](https://developer.visa.com/capabilities/trusted-agent-protocol/overview)** | 🟢 Production | v1.0.0 | Private | 100+ countries, 80M+ terminals | Global |
+| **[Mastercard Agent Pay](https://investors.fiserv.com/newsroom/detail/2882)** | 🟢 Production | v1.0.0 | Private | 100+ countries, 50M+ terminals | Global |
+| **[World AgentKit](https://worldcoin.org/agent-kit)** | 🚧 Preview | v0.1.0 | Private | Biometric agent identity | New |
+| **[Stripe Tempo](https://tempo.stripe.com)** | 🚧 Testnet | v0.1.0 | Private | Agent-optimized L2 | New |
 
-**💰 Total Weekly Volume**: $280M+ across all protocols
+**💰 Total Weekly Volume**: $480M+ across all protocols
 
 ---
 
 # 📅 Weekly Updates
+
+## 📅 Week of March 16, 2026
+**Theme**: Identity is the Missing Piece
+
+[📄 **Full Update** →](./updates/2026-03-16.md)
+
+### Major Developments
+
+**World AgentKit + x402: Biometric Agent Identity**:
+- **Launch**: World (formerly Worldcoin) combines biometric proof-of-humanity with x402 payments
+- **Mechanism**: Zero-Knowledge Proofs allow agents to prove human backing without revealing identity
+- **Impact**: Solves the sybil problem—one verified human = one set of agent bindings
+
+**NVIDIA GTC: Physical AI Agents with Payment Rails**:
+- **Isaac Agent Platform**: Robots with embedded commerce capabilities (x402, ACP)
+- **Demo**: Warehouse robot autonomously reorders supplies, negotiates pricing, settles payments
+- **Significance**: Agentic commerce moves from software to physical world
+
+**Visa TAP + Mastercard Agent Pay Global Rollout**:
+- **Scale**: 130M+ merchant terminals across 100+ countries
+- **Innovation**: Agent Tokens—scoped, single-use payment credentials for AI agents
+- **Impact**: Agent payments work at virtually every POS terminal globally
+
+### Developer Impact
+
+- **The stack is complete**: Identity (World) + Connectivity (MCP) + Settlement (x402) + Rails (Visa/MC) = feature-complete
+- **Physical AI**: NVIDIA Isaac creates blueprint for payment-enabled robots and IoT devices
+- **Agent Tokens**: Visa/Mastercard solve "how to give an agent a credit card" with scoped, temporary credentials
+
+---
+
+## 📅 Week of March 9, 2026
+**Theme**: The Walled Garden vs. Open Protocol War
+
+[📄 **Full Update** →](./updates/2026-03-09.md)
+
+### Major Developments
+
+**Amazon Wins Injunction Against Perplexity Comet**:
+- **Ruling**: Federal court establishes AI agent scraping = unauthorized access under CFAA
+- **Precedent**: Agents need structured, consensual access (UCP, ACP) not web scraping
+- **Impact**: Legal moat around merchant data; protocols become mandatory
+
+**Meta Acquires Moltbook for $780M**:
+- **Scale**: 1.6M active agents, $48M monthly GMV absorbed into Meta ecosystem
+- **Changes**: Permissionless → curated, 85/10/5 → 70/15/15 revenue split
+- **Signal**: Big Tech strategy: acquire open marketplaces, add platform controls
+
+**OpenAI Pivots from Checkout to App-Based ACP**:
+- **Data**: App-based ACP conversion 4.8% vs. direct checkout 1.9% (+153%)
+- **Wizard + Stripe ACP**: First agent framework with native payment integration
+- **Pattern**: "Agent recommends, app executes" beats "agent does everything"
+
+### Developer Impact
+
+- **Scraping is dead**: Switch to UCP/ACP for product data access (Amazon ruling makes scraping legally untenable)
+- **Hybrid model wins**: Open protocols for plumbing, curated platforms for distribution
+- **Agent app store**: The Wizard/Stripe model (agents recommend, merchants checkout) is the winning pattern
+
+---
+
+## 📅 Week of March 2, 2026
+**Theme**: Regulation Catches Up
+
+[📄 **Full Update** →](./updates/2026-03-02.md)
+
+### Major Developments
+
+**OCC Proposes GENIUS Act Stablecoin Rules**:
+- **First federal framework** for stablecoins used in agent commerce
+- **Requirements**: 1:1 reserves, T+1 redemption, machine-initiated tx metadata
+- **Comment Period**: 90 days (closes June 3, 2026)
+
+**Google AP2 Protocol with 60+ Organizations**:
+- **Universal payment router** for agents—routes to x402, ACP, card rails, ACH
+- **Backing**: Visa, Mastercard, PayPal, Stripe, Adyen, JPMorgan, and 50+ more
+- **Role**: Orchestration layer above existing payment protocols
+
+**MCP Ecosystem: 97M Downloads + Linux Foundation + Agentic AI Foundation**:
+- **97M monthly npm downloads** (up from 45M in December)
+- **Linux Foundation governance**: MCP and A2A now vendor-neutral standards
+- **Agentic AI Foundation**: Cross-industry body (Anthropic, Google, Microsoft, SAP, Salesforce)
+
+### Developer Impact
+
+- **GENIUS Act clarity**: Federal stablecoin rules remove legal uncertainty for x402/ACP settlement
+- **AP2 routing**: Google's payment router will abstract protocol choice—build for it
+- **MCP v0.5**: Tool annotations (cost, latency metadata) drive intelligent agent tool selection
+
+---
+
+## 📅 Week of February 23, 2026
+**Theme**: Enterprise Agents Go Mainstream
+
+[📄 **Full Update** →](./updates/2026-02-23.md)
+
+### Major Developments
+
+**Anthropic Enterprise Plugins: HR, Finance, Engineering**:
+- **Action Permission Framework (APF)**: Read → Suggest → Execute → Autonomous
+- **Metrics**: 94% approval rate, 0.3% rollback rate, 2,400+ daily actions per org
+- **Integrations**: Workday, NetSuite, QuickBooks, Jira, Linear, GitHub
+
+**Salesforce Spring '26 Agentforce**:
+- **Autonomous CRM agents**: 67% L1 case resolution, 2-min lead response time
+- **Commerce Agent**: Native ACP integration for payment processing
+- **Scale**: Available to 150K+ Salesforce customers
+
+**Agent Observability Matures: 89% Enterprise Adoption**:
+- **Growth**: 23% → 89% in six months
+- **Leaders**: Datadog AI Monitoring (31%), New Relic (24%), Langfuse (18%)
+- **Advanced tier**: 34% have decision explainability and anomaly detection
+
+### Developer Impact
+
+- **APF is the model**: Anthropic's graduated permission framework becoming industry standard
+- **Agentforce + ACP**: Most complete enterprise agent commerce stack (CRM + autonomy + payments)
+- **Observability is mandatory**: 89% adoption means it's table stakes, not optional
+
+---
+
+## 📅 Week of February 16, 2026
+**Theme**: Checkout Reality Check
+
+[📄 **Full Update** →](./updates/2026-02-16.md)
+
+### Major Developments
+
+**OpenAI Expands Instant Checkout to Etsy + Shopify**:
+- **Scale**: 2.1M+ Shopify + 8.7M Etsy merchants
+- **Conversion Gap**: 1.9% vs. 3.1% web checkout (38% lower)
+- **Response**: New "Checkout Preview" UI for trust-building
+
+**Google A2A v0.3 Under Linux Foundation**:
+- **Governance**: Multi-stakeholder, vendor-neutral (Google, Microsoft, Anthropic, SAP, Salesforce)
+- **New**: Task Delegation Chains for multi-agent workflows
+- **Auth**: OpenID Connect + OpenTelemetry distributed tracing
+
+**Crypto Agent Economy: ERC-8004, DeFAI, $2.6B Market Cap**:
+- **ERC-8004**: Standard for autonomous agent identities on Ethereum
+- **DeFAI**: Decentralized Finance + AI protocols surge to $680M market cap
+- **Total**: $2.6B crypto agent economy market cap
+
+### Developer Impact
+
+- **Trust gap is real**: Agent checkout needs "confirmation-first" UX patterns
+- **A2A v0.3**: Production-ready multi-agent standard with DNS-based discovery
+- **ERC-8004**: On-chain agent identity becomes the standard for Web3 agent wallets
+
+---
+
+## 📅 Week of February 9, 2026
+**Theme**: The Internet Gets a Price Tag
+
+[📄 **Full Update** →](./updates/2026-02-09.md)
+
+### Major Developments
+
+**Stripe Launches x402 Machine Payments**:
+- **purl CLI**: Monetize any API with `purl wrap https://api.example.com --price 0.001 --currency USDC`
+- **Settlement**: USDC on Base, sub-second finality
+- **Scale**: 3.4M Stripe merchants can now accept machine payments
+
+**Stripe Tempo Chain: $500M Series A at $5B Valuation**:
+- **Purpose-built L2**: Optimized for agent transactions (OP Stack)
+- **Specs**: Sub-100ms finality, < $0.0001 gas, 50K+ TPS
+- **Innovation**: Chronos Ordering eliminates MEV, gasless USDC transactions
+
+**x402 V2: SIWX, Any ERC-20, Multi-Chain**:
+- **SIWX**: Cross-chain agent authentication (authenticate once, pay anywhere)
+- **Multi-chain**: Base, Ethereum, Arbitrum, Optimism, Polygon
+- **Any ERC-20**: Not just USDC—WETH, DAI, EURC, and more
+
+### Developer Impact
+
+- **purl CLI**: Fastest path to x402 monetization is now a single command
+- **x402 V2 SIWX**: Cross-chain identity eliminates multi-chain auth friction
+- **Stripe dual strategy**: Embracing x402 on Base while building proprietary Tempo chain
+
+---
+
+## 📅 Week of February 2, 2026
+**Theme**: When Agents Met Commerce
+
+[📄 **Full Update** →](./updates/2026-02-02.md)
+
+### Major Developments
+
+**SAP "Agentic AI Reshaping Commerce" + MCP Server for Commerce Cloud**:
+- **47 MCP tools** covering product discovery, inventory, pricing, orders, fulfillment
+- **12,000+ enterprises** on SAP Commerce Cloud now agent-accessible
+- **First major ERP**: Native MCP connectivity for enterprise commerce
+
+**EU AI Act: First Enforcement Against X/Grok**:
+- **Ruling**: Grok's shopping recommendations require transparency disclosures
+- **Precedent**: AI agents making purchase recommendations = High-Risk under EU AI Act
+- **Penalty**: Up to €35M or 7% of global turnover
+
+**Oracle Agentic AI Suite for Supply Chain**:
+- **Agent Autonomy Levels (L0-L4)**: Observer → Advisor → Executor → Manager → Autonomous
+- **Modules**: Demand, Procurement, Logistics, Quality agents
+- **Integration**: ACP for payment settlement within supply chain workflows
+
+### Developer Impact
+
+- **SAP MCP Server**: Fastest path to enterprise agent commerce—connect to existing SAP infrastructure
+- **Oracle L0-L4**: Graduated autonomy framework becoming enterprise standard
+- **EU compliance**: Any agent making commercial recommendations needs transparency + audit trail
+
+---
+
+## 📅 Week of January 26, 2026
+**Theme**: The Protocol Era Begins
+
+[📄 **Full Update** →](./updates/2026-01-26.md)
+
+### Major Developments
+
+**Stripe ACP v1.2: Extensions and Discount Primitives**:
+- **Extensions**: Structured metadata on transactions (warranty, subscriptions, loyalty)
+- **Discounts**: Programmatic price negotiation for agents (volume, bundle, loyalty)
+- **Impact**: ACP evolves from "checkout for bots" to full commerce negotiation layer
+
+**PayPal: "Making Sense of AI Shopping Protocol Moment"**:
+- **Agent GMV Estimate**: $12B agent-influenced GMV across PayPal network by end of 2026
+- **Agent Commerce API**: Wraps 35M+ merchant network in agent-compatible endpoints
+- **Validation**: Largest digital payment processor acknowledges protocol-driven agent commerce
+
+**Moltbook Goes Viral: 1.6M Active Agents**:
+- **Growth**: 370K → 1.6M active agents (+340% in one week)
+- **GMV**: $14.8M weekly, settled via x402 on Base
+- **Innovation**: Agent Portfolios (ETF-like bundles of autonomous agents)
+
+### Developer Impact
+
+- **ACP v1.2 discounts**: Agents will preferentially shop at merchants offering programmatic discounts
+- **PayPal validation**: When the largest payment processor acknowledges the shift, enterprise adoption accelerates
+- **Moltbook portfolios**: Crypto-native agent marketplace model has product-market fit
+
+---
 
 ## 📅 Week of January 19, 2026
 **Theme**: The Silicon Mint: Financial Infrastructure for the Machine Economy
