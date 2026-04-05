@@ -65,6 +65,7 @@ graph TB
 | **Google's A2A Agent Cards** | JSON manifests for agent capabilities | Service descriptions | ✅ Production |
 | **Olas (Autonolas)** | On-chain registries via NFTs | Decentralized discovery | ✅ Production |
 | **IBM's ACP Registry** | Agent capability registries | Enterprise focus | 🚧 Beta |
+| **Hashgraph Online (HOL)** | Universal agentic registry on Hedera | HCS-14 UAIDs, ERC-8004 bridge | Production |
 
 ### 💬 Layer 3: Communication (The "Language")
 *How do agents communicate and coordinate?*
